@@ -20,6 +20,7 @@ public class HelloController {
         System.out.println("hello,git1");
         System.out.println("hello,git2");
         System.out.println("push Test");
+        System.out.println("pull Test");
         return "hello,springBoot2";
     }
 }
