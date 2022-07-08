@@ -16,6 +16,7 @@ public class HelloController {
     @RequestMapping("/hello")
     public String hello01(){
         System.out.println("hello,git");
+        System.out.println("hello,git");
         return "hello,springBoot2";
     }
 }
