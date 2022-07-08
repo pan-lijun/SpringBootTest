@@ -32,4 +32,4 @@ target/
 .settings/
 bin/
 tmp/
-*.xml
+
