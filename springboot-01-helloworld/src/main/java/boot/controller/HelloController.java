@@ -17,6 +17,7 @@ public class HelloController {
     public String hello01(){
         System.out.println("hello,git");
         System.out.println("hello,git");
+        System.out.println("hello,git2");
         return "hello,springBoot2";
     }
 }
