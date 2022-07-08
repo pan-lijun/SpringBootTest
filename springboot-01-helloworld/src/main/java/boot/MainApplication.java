@@ -12,6 +12,5 @@ public class MainApplication {
         for (String name : names) {
             System.out.println(name);
         }
-        System.out.println("hello");
     }
 }
